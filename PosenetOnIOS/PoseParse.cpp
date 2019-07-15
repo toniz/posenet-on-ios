@@ -45,7 +45,7 @@ CDecodePose::CDecodePose(){
     m_localWindowRadius = 1;
     m_outStride = 16;
     m_nmsRadius = 30;
-    m_squaredNmsRadius = m_nmsRadius^2;
+    m_squaredNmsRadius = m_nmsRadius*m_nmsRadius;
 }
 
 // check the point is has the highest score in the same category in local window
