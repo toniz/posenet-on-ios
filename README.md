@@ -3,6 +3,7 @@
 ## 1. Demo
 ![](http://www.ibbwhat.com/image1.gif)
 ![](http://www.ibbwhat.com/image3.gif)
+![](http://www.ibbwhat.com/image4.gif)
 
 ## 2. Requirements:
 - [Apple Developer Program Account](https://opencv.org/releases.html) (Simulator doesn’t have a camera)
